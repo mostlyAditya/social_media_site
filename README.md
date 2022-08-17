@@ -6,7 +6,9 @@ Include features such as:
 <ol>
 <li>Login and Register options</li>
 <li>Follow & Un-Follow feature</li>
+<li>Upload Posts</li>
 <li>Follow Suggestions for the user</li>
+  
 <li>Profile Settings</li>
 <li>Search Options by username</li>
 </ol>
@@ -25,6 +27,10 @@ Technology Stack:
 <h3>Following a user ---> Follow option changes to >>>> UnFollow</h3>
 
 ![combined (1)](https://user-images.githubusercontent.com/57368486/185212547-316907d9-8bfc-46eb-b333-088d19c9cf43.jpg)
+
+<h3> Upload Post Option</h3>
+
+<img src = "https://user-images.githubusercontent.com/57368486/185216354-8b606247-1b97-4c37-a62d-a9e5698d7fe9.png" width = "800" height = "400">
 
 <h3> Follow Suggestions</h3>
 <img src = "https://user-images.githubusercontent.com/57368486/185211698-a67d868a-5c6d-40db-ad75-1091fc9e0927.png" width = "800" height = "400">
