@@ -27,16 +27,17 @@ Technology Stack:
 ![combined (1)](https://user-images.githubusercontent.com/57368486/185212547-316907d9-8bfc-46eb-b333-088d19c9cf43.jpg)
 
 <h3> Follow Suggestions</h3>
+<img src = "https://user-images.githubusercontent.com/57368486/185211698-a67d868a-5c6d-40db-ad75-1091fc9e0927.png" width = "800" height = "400">
 
-![suggestions](https://user-images.githubusercontent.com/57368486/185211698-a67d868a-5c6d-40db-ad75-1091fc9e0927.png)
 
 <h3> Profile Settings </h3>
 
-![Screenshot (149)](https://user-images.githubusercontent.com/57368486/185211872-439e1c2d-c344-4c05-bb9a-dab58c4d7f5f.png)
+<img src = "https://user-images.githubusercontent.com/57368486/185211872-439e1c2d-c344-4c05-bb9a-dab58c4d7f5f.png" width = "800" height = "400">
+
 
 <h3> Search using Username</h3>
 
-![Screenshot(152)](https://user-images.githubusercontent.com/57368486/185209610-4ce064f4-f4b3-455d-98dd-c5c220340c82.png)
+<img src = "https://user-images.githubusercontent.com/57368486/185209610-4ce064f4-f4b3-455d-98dd-c5c220340c82.png" width = "800" height = "400">
 
 
 
